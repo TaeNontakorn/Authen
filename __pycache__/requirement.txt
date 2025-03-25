@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+python-multipart
+pythainlp
+thai_strftime
